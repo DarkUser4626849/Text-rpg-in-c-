@@ -1,2 +1,2 @@
-# Text-rpg-in-c-
+# Text-rpgc++
 Text-based game when you can attack enemy with weapon
